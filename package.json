@@ -1,9 +1,8 @@
 {
-  "name": "Base Template for Angular and Express Backend",
+  "name": "",
   "version": "0.2.0",
   "description": "Gulp Patterns by John Papa - all of the specific application stuff and added MongoDB support",
-  "authors": [
-  ],
+  "authors": [],
   "license": "MIT",
   "homepage": "https://github.com/graffam",
   "repository": {
@@ -22,7 +21,8 @@
     "cors": "^2.2.0",
     "express": "^4.9.3",
     "morgan": "^1.1.1",
-    "serve-favicon": "^2.0.1"
+    "serve-favicon": "^2.0.1",
+    "tsd": "^0.6.4"
   },
   "devDependencies": {
     "browser-sync": "^2.5.0",
@@ -87,3 +87,4 @@
     "wiredep": "^2.2.2",
     "yargs": "^3.6.0"
   }
+}

@@ -1,15 +1,17 @@
 {
-  "name": "collar_metrics",
-  "version": "0.0.0",
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
-  "dependencies": {
-    "bootstrap": "~3.3.5"
+    "name": "MetricServe",
+    "version": "0.1.1",
+    "description": "A simple server which ingests data and stores it",
+    "authors": [
+        "Alex Graff"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/johnpapa/gulp-patterns",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
   }
-}
